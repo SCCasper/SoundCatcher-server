@@ -69,7 +69,7 @@ function webSocketConnection() {
             console.log("QUEUE PUSH");
             console.log("QUEUE Length : " + queue.length);
             queueLength.innerHTML = "QUEUE Length : " + queue.length;
-            if (startFlag && queue.length > 3) {
+            if (startFlag) {
                 console.log("START FLAG OFF");
                 startFlag = false;
                 play();
