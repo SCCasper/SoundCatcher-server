@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+<title>SoundCatcher</title>
+<meta charset="utf-8"/>
+<meta name="author" content="권영재">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="assets/css/SoundCatcher.css" />
+</head>
+<body>
+
+	<!-- Wrapper -->
+	<div id="wrapper">
+
+		<!-- Header -->
+		<header id="header">
+			<span class="avatar"><img src="images/SoundCatcher.png"/></span>
+			<div id="project">
+				<h1>
+					Project Name : <strong>SoundCatcher</strong>
+				</h1>
+				<h1>
+					Team Name : <strong>CASPER</strong>
+				</h1>
+				<h1>
+					Professor : <strong>황기태 교수님</strong>
+				</h1>
+				<h1>Team Member</h1>
+				<h2>
+					<strong>최지훈 권영재</strong>
+				</h2>
+				<h2>
+					<strong>심영보 유민석</strong>
+				</h2>
+				<ul class="icons">
+					<li><a id="btnPlay" onclick="webSocketConnection()"><span
+							class="label"><img
+								src="images/icon/ic_global_play_normal.png"></span></a></li>
+				</ul>
+			</div>
+			<div id="success" style="display: none;">
+				<h1>Web Socket Open Success</h1>
+				<h1>Web Socket Receive Audio Data</h1>
+			</div>
+			<div id="console"></div>
+			<div id="msgCnt"></div>
+			<div id="queueLength"></div>
+
+		</header>
+
+
+		<!-- Footer -->
+		<footer id="footer">
+			<p>
+				Project Name : SoundCatcher:
+				<a href="https://github.com/SCCasper/SoundCatcher" target="_blank">Github</a>
+			</p>
+			<p>&copy; Team : CASPER</p>
+			<br>
+		</footer>
+
+	</div>
+
+	<!-- Scripts -->
+	<script src="assets/js/SoundCatcher.js"></script>
+
+</body>
+</html>
