@@ -9,4 +9,4 @@
 - 유민석 : Client & Ui 설계 및 구현
 
 - [동영상](https://youtu.be/h2jTrTSD1wQ)
-
+- [](https://www.dropbox.com/s/f8z2r5c83ldkpr8/Sound%20Catcher.pptx?dl=0)
