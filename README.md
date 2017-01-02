@@ -11,5 +11,5 @@
 - [동영상](https://youtu.be/h2jTrTSD1wQ)
 
 - [서버강의자료](https://www.dropbox.com/s/gfxso856o6rb06z/Server.pptx?dl=0)
-- [Web강의자료](https://www.dropbox.com/s/f8z2r5c83ldkpr8/Sound%20Catcher.pptx?dl=0)
+- [Web강의자료](https://www.dropbox.com/s/494rd6rxinibp08/Web%20%EA%B0%95%EC%9D%98.pptx?dl=0)
 - [apk](https://www.dropbox.com/s/iaeim7uzpfnev8o/com.example.administrator.casperf.apk?dl=0)
