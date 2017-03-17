@@ -15,7 +15,7 @@ import debug.SCDebug;
 import http.HttpStatus.Code;
 
 public class HttpResponseHandler {
-	private static final String STATUS_LINE = "HTTP/1.1 %d %s\r\n";
+	private static final String STATUS_LINE = "HTTP/1.0 %d %s\r\n";
 	private static final String HEADER_LINE = "%s: %s\r\n";
 	private static final String EOL = "\r\n";
 
@@ -46,7 +46,7 @@ public class HttpResponseHandler {
 		URL = DEFAULT_HTML;
 
 		/* Default Response Set */
-		HTTPVersion = HttpVersion.Http11;
+		HTTPVersion = HttpVersion.Http10;
 		HTTPStatusNum = HttpStatus.OK_200;
 		HTTPStatusCode = HttpStatus.getStatusByCode(HttpStatus.OK_200);
 		setHeader(HttpHeader.SERVER, "SoundCatcher");
