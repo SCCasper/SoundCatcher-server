@@ -1,4 +1,4 @@
-﻿# SoundCatcher Server  
+## SoundCatcher Server  
 ### 담당교수님
 - 황기태 교수님 <br/>
 
@@ -11,5 +11,5 @@
 - [동영상](https://youtu.be/h2jTrTSD1wQ)
 
 - [서버강의자료](https://www.dropbox.com/s/gfxso856o6rb06z/Server.pptx?dl=0)
-- [Web강의자료](https://www.dropbox.com/s/494rd6rxinibp08/Web%20%EA%B0%95%EC%9D%98.pptx?dl=0)
+- [Web강의자료](https://www.slideshare.net/YoungJaeKwon2/soundcatcher-web?qid=0ea2158e-8c08-4a05-9188-d76a5c1e8dc0&v=&b=&from_search=1)
 - [apk](https://www.dropbox.com/s/iaeim7uzpfnev8o/com.example.administrator.casperf.apk?dl=0)
