@@ -10,7 +10,7 @@
 - 유민석 : Client & Ui 설계 및 구현
 
 ### Awards
-- [Embedded Software Contest](http://eswcontest.com/bbs/board.php?tbl=award&category=2016%B3%E2)
+- [Embedded Software Contest - Casper](http://eswcontest.com/bbs/board.php?tbl=award&category=2016%B3%E2)
 
 
 ### Resource
