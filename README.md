@@ -1,8 +1,5 @@
 ## SoundCatcher Server ![No Image](https://github.com/SCCasper/SoundCatcher-client/blob/master/src/main/res/mipmap-mdpi/ic_launcher.png)
 
-### Mentor
-- 황기태 교수님
-
 ### Team
 - 최지훈 : Streaming Server 설계 및 구현
 - 권영재 : Streaming Web Server 설계 및 구현
